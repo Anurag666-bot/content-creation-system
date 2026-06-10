@@ -6,3 +6,7 @@ __pycache__/
 *.mp3
 *.jpg
 *.png
+client_secret.json
+client_secret.json
+*.json
+.env
