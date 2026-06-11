@@ -359,20 +359,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/yourusername/ai-avatar-project/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-avatar-project/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-avatar-project/discussions)
+- **Documentation**: [Wiki](https://github.com/Anurag666-bot/ai-avatar-project/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Anurag666-bot/ai-avatar-project/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Anurag666-bot/ai-avatar-project/discussions)
 - **Email**: support@yourdomain.com
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-avatar-project?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-avatar-project?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-avatar-project)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ai-avatar-project)
+![GitHub stars](https://img.shields.io/github/stars/Anurag666-bot/ai-avatar-project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Anurag666-bot/ai-avatar-project?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Anurag666-bot/ai-avatar-project)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Anurag666-bot/ai-avatar-project)
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Anurag](https://github.com/Anurag666-bot)**
 
 *Transform text into engaging AI avatars with cutting-edge technology.*
